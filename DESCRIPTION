@@ -5,8 +5,7 @@ Version: 0.1.0
 Author: Samuel Hutt
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: This package provides functions to clean data by removing missing 
-        values and duplicates and to summarize numeric data with basic 
-        statistics.
+        values and duplicates and to summarize data with basic statistics.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true

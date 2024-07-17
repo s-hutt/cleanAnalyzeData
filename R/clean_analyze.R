@@ -19,7 +19,7 @@ clean_data <- function(data) {
 #'
 #' This function summarizes the input data by calculating the mean, median, standard deviation, and count for each numeric column.
 #'
-#' @param data A data frame containing numeric data to be summarized.
+#' @param data A data frame containing the data to be summarized.
 #' @return A data frame with summary statistics for each numeric column.
 #' @examples
 #' data <- data.frame(A = c(1, 2, 3, 4), B = c(2, 3, 4, 5))

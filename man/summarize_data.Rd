@@ -7,7 +7,7 @@
 summarize_data(data)
 }
 \arguments{
-\item{data}{A data frame containing numeric data to be summarized.}
+\item{data}{A data frame containing the data to be summarized.}
 }
 \value{
 A data frame with summary statistics for each numeric column.
