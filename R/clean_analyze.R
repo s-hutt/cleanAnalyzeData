@@ -1,9 +1,3 @@
-# Loading the packages "usethis", "devtools" and "roxygen2":
-
-library(usethis)
-library(devtools)
-library(roxygen2)
-
 #' Clean Data Function
 #'
 #' This function cleans the input data by removing missing values, removing duplicates, and converting column names to lowercase.
